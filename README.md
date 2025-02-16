@@ -46,5 +46,3 @@ This will output the temperature in both Celsius and Fahrenheit.
 ## License
 This project is licensed under the GPL v2 license.
 
-## Author
-Bhuvan
